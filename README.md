@@ -29,10 +29,12 @@ Anaconda is a free and open-source distribution of Python and R, mainly built fo
 * Useful for both beginners and experienced users
 
 Why python?
+
 <img width="616" height="390" alt="image" src="https://github.com/user-attachments/assets/f53c15d0-d338-4dcf-acf5-ddee83fb94e2" />
 <img width="630" height="373" alt="image" src="https://github.com/user-attachments/assets/cfe1c6f6-955a-4e4d-ba23-261f238951dd" />
 
 Why Jupyter NoteBook?
+
 <img width="661" height="384" alt="image" src="https://github.com/user-attachments/assets/e93c9f32-0181-436f-a06a-59af946ee0a3" />
 
 3. Installation of Anaconda and Jupyter Notebook
@@ -40,6 +42,7 @@ Step-1: Download Anaconda
 1.	Visit the official Anaconda website: https://www.anaconda.com
 2.	Click on Download and select Anaconda Individual Edition.
 3.	Choose Python 3.x version suitable for your operating system.
+
 <img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/cce0fec4-5992-4a79-a982-29d39680b744" />
 <img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/dcdafdc7-c6f7-46a8-b1e5-63decfe52d15" />
 <img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/bcef1a39-2411-47b4-a93a-5ac9c7b99d98" />
@@ -72,6 +75,7 @@ Advantages:
 •	Runs in browser
 
 <img width="940" height="699" alt="image" src="https://github.com/user-attachments/assets/90ad93a4-bd63-45dc-addd-93f6bededcdc" />
+
 Steps to Use Google Colab:
 1.	Visit https://colab.research.google.com
 2.	Sign in using Google account
